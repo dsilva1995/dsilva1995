@@ -1,5 +1,5 @@
 - 👋 Oi, meu nome é Douglas Silva
-- 👀 Eu estou interessado no mundo d programação
+- 👀 Eu estou interessado no mundo da programação
 - 🌱 Atualmente estou aprendendo desenvolvimento front-end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
